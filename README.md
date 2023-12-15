@@ -1,4 +1,4 @@
-# CRESPHERE HACKATHON
+# CREWSPHERE HACKATHON
 
 ## EpicGuardian -Wallet
 
