@@ -1,4 +1,6 @@
-# ICP Smart Wallet
+# CRESPHERE HACKATHON
+
+## EpicGuardian -Wallet
 
 Account Abstraction Wallet with Threshold ECDSA on ICP
 
