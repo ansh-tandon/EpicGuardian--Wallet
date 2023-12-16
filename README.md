@@ -20,9 +20,7 @@ https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=difti-nqaaa-aaaam-abtua-cai
 
 https://docs.google.com/presentation/d/1wv1TmWFZgZKoA_dmFPBojh6jeQtdwUpE3RRmwsWI1Qc/edit?usp=sharing
 
-## Video Demo
 
-https://youtu.be/a2l7HdlRKjk
 
 ## Description
 
