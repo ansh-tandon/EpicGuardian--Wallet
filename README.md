@@ -16,15 +16,11 @@ https://icp-smart-wallet.vercel.app/
 
 https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=difti-nqaaa-aaaam-abtua-cai
 
-## Pitch Deck
-
-https://docs.google.com/presentation/d/1wv1TmWFZgZKoA_dmFPBojh6jeQtdwUpE3RRmwsWI1Qc/edit?usp=sharing
-
 
 
 ## Description
 
-ICP Smart Wallet is a highly innovative, Account Abstraction Wallet developed to operate with Threshold ECDSA on the Internet Computer Protocol (ICP). It is designed to integrate seamlessly with on-chain wallets using Motoko-based Threshold ECDSA and Internet Identity, thereby offering users a smooth and secure experience. Moreover, the wallet incorporates EIP4331 Account Abstraction wallet infrastructure to enhance its functionality and interaction with diverse platforms.
+ICP Smart Wallet represents a cutting-edge leap in the realm of Account Abstraction Wallets, specifically tailored to operate seamlessly with Threshold ECDSA on the Internet Computer Protocol (ICP). It stands as a testament to innovation by integrating seamlessly with on-chain wallets using Motoko-based Threshold ECDSA and Internet Identity, offering users a secure, smooth, and futuristic experience. The inclusion of the EIP4331 Account Abstraction infrastructure further augments its functionality, facilitating enhanced interactions across diverse blockchain platforms.
 
 ## Benefit
 
@@ -37,6 +33,10 @@ ICP Smart Wallet stands out by providing a fully on-chain, networked-custody wal
 ## Technical Detail
 
 ![technical-detail](./docs/technical-detail.png)
+Utilizes Wallet Connect V2 to seamlessly interact with various dApps.
+Implements Threshold ECDSA using Motoko for optimized performance and heightened security.
+Integrates Internet Identity for secure and seamless user authentication.
+Incorporates EIP4331 Account Abstraction, enabling the creation of Abstract Wallet Transactions.
 
 - ICP Smart Wallet connects through Wallet Connect V2 to interact with various dApps.
 - ICP Smart Wallet utilizes Threshold ECDSA, which is implemented with Motoko for enhanced performance and security.
@@ -45,7 +45,24 @@ ICP Smart Wallet stands out by providing a fully on-chain, networked-custody wal
 
 ## Roadmap
 
-The ICP Smart Wallet aims to continuously evolve and adapt to the dynamic landscape of blockchain technology. Our roadmap reflects our vision for the future and our commitment to creating a robust and user-friendly platform. Here's a glimpse of our planned milestones:
+The ICP Smart Wallet is dedicated to evolving and adapting to the dynamic blockchain landscape. The roadmap outlines our vision and commitment to creating a robust and user-friendly platform:
+
+1. Demo in Fully On-Chain with ICP Hackathon
+Objective: Showcase initial capabilities in a real-world setting and gather community feedback.
+
+3. Publish Beta App
+Objective: Launch a preliminary version to a limited audience for testing and refinement.
+
+5. Adding Functionality Like Multichain Support
+Objective: Enhance capabilities by supporting multiple blockchains, increasing interoperability, and expanding the user base.
+
+7. Develop More Account Abstraction Infrastructure
+Objective: Elevate capabilities with advanced infrastructures using IPC full-onchain functionality.
+
+Components:
+Fully-Onchain Verifying Paymaster: Onchain version of EIP4331 verifying paymaster.
+Bundler: Onchain version of EIP4331 bundler.
+Regular roadmap updates will be made based on community feedback and evolving user needs.
 
 ### **1. Demo in Fully On-Chain with ICP Hackathon**
 
